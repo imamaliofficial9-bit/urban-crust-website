@@ -1,0 +1,6 @@
+{
+  "name": "Urban Crust - Café & Fast Food",
+  "description": "Experience the taste revolution at Urban Crust. Freshly prepared gourmet burgers, loaded fries, crispy chicken, artisan coffee, and café favorites in a dark luxury ambiance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
